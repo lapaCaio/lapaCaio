@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **lapaCaio/lapaCaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```md
-<h2 align="center">Hi there, i'm Rok👋</h2>
+<h2 align="center">Hi there, i'm lapaCaio👋</h2>
 
-<h3>I'm a new dev in this amazing dev world.</h3>
+<h3>"Your focus determines your reality."</h3>
 
 <p align="left"> 
   <a href="https://wakatime.com/@d7827dc4-ebb9-4e8b-9941-d7c602e4b639"><img src="https://wakatime.com/badge/user/d7827dc4-ebb9-4e8b-9941-d7c602e4b639.svg" alt="Total time coded since Apr 2 2021" /></a> <img src="https://komarev.com/ghpvc/?username=lapaCaio&label=Profile%20views&color=0e75b6&style=flat" alt="lapaCaio" /> 
@@ -36,24 +34,16 @@ Here are some ideas to get you started:
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
+    </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+    </a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lapaCaio&theme=tokyonight&show_icons=true&locale=en" alt="lapaCaio" /></p>
-```
+```md
